@@ -4,7 +4,7 @@ We have released  the code. We will update the readme file as soon as possible!
 
 ## Contents
 
-<img src="images/Logo.png" width="160" align="Left">
+<img src="images/logo.png" width="160" align="Left">
 
 - [Overview](#overview)
 
@@ -17,10 +17,6 @@ We have released  the code. We will update the readme file as soon as possible!
 - [Data](#Data)
 
 - [Citation](#citation)
-
-  
-
-
 
 
 # Overview
