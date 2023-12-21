@@ -8,7 +8,7 @@ Note: We have released  the code. We will update the readme file as soon as poss
 ## Contents
 
 <div style="display: flex; align-items: center;">
-    <img src="images/logo.jpg" width="240" style="margin-right: 40px;">
+    <img src="images/logo.jpg" width="240" style="margin-right: 20px;">
     <div style="flex-grow: 1;">
         <a href="#overview"><span class="marker"> ● </span>Overview</a><br>
         <a href="#system-environment"><span class="marker"> ● </span>System Environment</a><br>
