@@ -1,0 +1,57 @@
+{
+    "name": "Star_SegNet",
+    "n_gpu": 1,
+    "save_path": "E:/data/telescope/raw_patchs/png/model_predict/",
+
+    "arch": {
+        "type": "AttU_Net",
+        "args": {
+            "img_ch": 1,
+            "output_ch": 1
+        }
+    },
+
+    "data_loader": {
+        "type": "CustomStarDataLoader",
+        "args": {
+            "image_dir": "E:/data/telescope/datas/dataset/image/",
+            "mask_dir": "E:/data/telescope/datas/dataset/mask/",
+            "is_train": 1,
+            "batch_size": 4
+        }
+    },
+
+    "optimizer": {
+        "type": "Adam",
+        "args":{
+            "lr": 0.0001,
+            "weight_decay": 0,
+            "amsgrad": true
+        }
+    },
+
+    "loss": "BCE_loss",
+    "metric": [
+        "dice_metric"
+    ],
+    "lr_scheduler": {
+        "type": "StepLR",
+        "args": {
+            "step_size": 50,
+            "gamma": 0.1
+        }
+    },
+
+    "trainer": {
+        "epochs": 100,
+
+        "save_dir": "saved/",
+        "save_period": 1,
+        "verbosity": 2,
+
+        "monitor": "min val_loss",
+        "early_stop": 10,
+
+        "tensorboard": true
+    }
+}
