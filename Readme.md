@@ -4,7 +4,7 @@ We have released  the code. We will update the readme file as soon as possible!
 
 ## Contents
 
-<img src="images/logo.png" width="160" align="Left">
+<img src="images/logo.jpg" width="240" align="Left">
 
 - [Overview](#overview)
 
