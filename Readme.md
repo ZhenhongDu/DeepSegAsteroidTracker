@@ -8,16 +8,17 @@ Note: We have released  the code. We will update the readme file as soon as poss
 ## Contents
 
 <div style="display: flex; align-items: center;">
-    <img src="images/logo.jpg" width="240" style="margin-right: 20px;">
     <div style="flex-grow: 1;">
         <a href="#overview"><span class="marker"> ● </span>Overview</a><br>
         <a href="#system-environment"><span class="marker"> ● </span>System Environment</a><br>
+        <a href="#results"><span class="marker"> ● </span>Results</a><br>
         <a href="#demo"><span class="marker"> ● </span>Demo</a><br>
         <a href="#data"><span class="marker"> ● </span>Data</a><br>
-        <a href="#acknowledge"><span class="marker"> ● </span>Acknowledge</a><br>
-        <a href="#citation"><span class="marker"> ● </span>Citation</a><br> 
+        <a href="#citation"><span class="marker"> ● </span>Citation</a><br>
     </div>
+    <img src="images/logo.jpg" width="240" style="margin-right: 20px;">
 </div>
+
 
 
 # Overview
