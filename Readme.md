@@ -7,20 +7,16 @@ Note: We have released  the code. We will update the readme file as soon as poss
 
 ## Contents
 
-<img src="images/logo.jpg" width="200" align="left">
 
 
+<img src="images/logo.jpg" width="170" align="right">
 
 - [Overview](#overview)
-- [System Environment](#system-environment)
+- [Installation](#installation)
 - [Demo](#demo)
 - [Data](#results)
 - [Acknowledge](#acknowledge)
 - [Citation](#citation)
-
-
-
-
 
 # Overview
 
@@ -30,11 +26,25 @@ Note: We have released  the code. We will update the readme file as soon as poss
 
 
 
-# System Environment
+# Installation
 
 
 
+We recommend using Anaconda or Miniconda to manage the package environment. You can clone this repository, then go to the folder and install the dependencies using Anaconda.
 
+- Try a demo (w/o pytorch-gpu) --> for simulation or asteroid tracking
+
+```python
+conda env create -f environment.yml
+```
+
+- Full dependencies (w pytorch-gpu)--> for simulation, asteroid tracking, network training and inference
+
+```
+conda env create -f environment_full.yml
+```
+
+After installation, you can activate the created environment with 'conda activate DSAT'.
 
 
 # Demo
