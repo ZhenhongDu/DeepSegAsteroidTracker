@@ -1,6 +1,8 @@
-# DSAT: **D**eep **S**egmentation assisted **A**steroid **T**racking
+ [![Project](https://img.shields.io/badge/project-DSAT%20-blue.svg)](https://zhenhongdu.github.io/asteroid_tracking/)  [![Github commit](https://img.shields.io/github/last-commit/zhenhongdu/DeepSegAsteroidTracker)](https://github.com/zhenhongdu/DeepSegAsteroidTracker/)  [![Github stars](https://img.shields.io/github/stars/zhenhongdu/DeepSegAsteroidTracker?color=hex)](https://github.com/zhenhongdu/DeepSegAsteroidTracker/)  <img src="https://badges.toozhao.com/badges/01HJ6B2Z74GM371X2NKHSJ6MF9/green.svg" /> 
 
-<img src="https://badges.toozhao.com/badges/01HJ6B2Z74GM371X2NKHSJ6MF9/green.svg" />[![Project](https://img.shields.io/badge/Project-DSAT%20-blue.svg)](https://zhenhongdu.github.io/asteroid_tracking/)<img alt="Static Badge" src="https://img.shields.io/badge/update_time-23--12--21-blue"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/zhenhongdu/DeepSegAsteroidTracker?color=hex">
+<p align="center">
+<h1 align="center">DSAT: <strong>D</strong>eep <strong>S</strong>egmentation-assisted <strong>A</strong>steroid <strong>T</strong>racking</h1> </h1>
+</p>
 
 
 Note: We have released  the code. We will update the readme file as soon as possible!
