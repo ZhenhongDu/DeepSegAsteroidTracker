@@ -24,9 +24,9 @@ Note: We have released  the code. We will update the readme file as soon as poss
 
 
 
+<img src="images/tracking_result.gif" width="200" align="left">
 
-
-
+DSAT aims to find faint moving asteroids using the digital imaging process method. In short, DSAT first extracts all potential faint objects with the help of deep learning-based segmentation. After that, a multi-frame tracking algorithm was developed to find real asteroids from the segmentation results. We utilize a distance tolerance criterion to help the failure detection of asteroids in complex situations. More detailed information can be found in our paper. DAST was developed using Python.
 
 # Installation
 
@@ -58,7 +58,7 @@ After installation, you can activate the created environment with 'conda activat
 
 # Data
 
-
+The simulated data will be uploaded to zenodo after it is orgranized.
 
 
 
