@@ -21,10 +21,10 @@ from collections import OrderedDict
 
 
 # Diff SNR
-# file_path = '/data/Data_zhenhong/asteroid/simulation_results/diff_SNRs/success_data/'
+# file_path = '/data/Data_zhenhong/asteroid/simulation_results/diff_SNRs/'
 # raw_file = file_path + 'simulate_data_SNR1.tif'
 # file_name = file_path + 'simulate_data_SNR1_ResUnet2plus_seg.tif'
-# save_path = '/data/Data_zhenhong/asteroid/simulation_results/diff_SNRs/success_data/'
+# save_path = '/data/Data_zhenhong/asteroid/simulation_results/diff_SNRs/'
 
 
 # Field function tracking
@@ -33,7 +33,7 @@ from collections import OrderedDict
 # file_name = file_path + 'simulate_data_star_num_100_ResUnet2plus_seg.tif'
 # save_path = '/mnt/data/asteroid/simulation_results/diff_field_crowding/'
 
-file_path = '/data/Data_zhenhong/asteroid/simulation_results/diff_field_crowding_2/successed_data/'
+file_path = '/data/Data_zhenhong/asteroid/simulation_results/diff_field_crowding_2/'
 raw_file = file_path + 'simulate_data_star_NUM_360.tif'
 file_name = file_path + 'simulate_data_star_NUM_360_ResUnet2plus_seg.tif'
 # save_path = '/mnt/data/asteroid/simulation_results/diff_field_crowding/'

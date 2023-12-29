@@ -68,9 +68,7 @@ After installation, you can activate the created environment with 'conda activat
 
 # Data
 
-The simulated data will be uploaded to zenodo after it is orgranized.
-
-
+The simulated training dataset and example data has been uploaded to [Zenodo: Data for DeepSegAsteroidTracker](https://zenodo.org/records/10440838).
 
 
 # Acknowledge
