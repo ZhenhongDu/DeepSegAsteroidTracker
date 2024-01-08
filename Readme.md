@@ -6,7 +6,9 @@
 <h1 align="center">DSAT: <strong>D</strong>eep <strong>S</strong>egmentation-assisted <strong>A</strong>steroid <strong>T</strong>racking</h1> </h1>
 <h6 align="right">- developed by Python</h6>
 </p>
-# Contents
+
+
+## Contents
 
 <img src="images/logo.jpg" width="170" align="right">
 
@@ -18,8 +20,7 @@
 - [Citation](#citation)
 
 
-# Overview
-
+## Overview
 
 
 <img src="images/tracking_result.gif" width="320" align="left">
