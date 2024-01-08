@@ -6,19 +6,19 @@
 <h1 align="center">DSAT: <strong>D</strong>eep <strong>S</strong>egmentation-assisted <strong>A</strong>steroid <strong>T</strong>racking</h1> </h1>
 <h6 align="right">- developed by Python</h6>
 </p>
-## Contents
+# Contents
 
 <img src="images/logo.jpg" width="170" align="right">
 
-- [Overview](##overview)
-- [Installation](##installation)
-- [Demo](##demo)
-- [Data](##results)
-- [Acknowledge](##acknowledge)
-- [Citation](##citation)
+- [Overview](#overview)
+- [Installation](#installation)
+- [Demo](#demo)
+- [Data](#results)
+- [Acknowledge](#acknowledge)
+- [Citation](#citation)
 
 
-## Overview
+# Overview
 
 
 
@@ -28,7 +28,6 @@ DSAT aims to find faint moving asteroids using the digital imaging process metho
 
 <br>
 
-<br>
 
 ## Installation
 
@@ -44,7 +43,7 @@ conda env create -f environment.yml
 
 >Note: For GPU training, you need to install CUDA and the corresponding version of Pytorch, which you can find on this [page](https://pytorch.org/get-started/previous-versions/).
 
-After installation, you can activate the created environment with 'conda activate DSAT'.
+After installation, you can activate the created environment with `conda activate DSAT`.
 
 ## Demo
 We will update some jupyter notebooks to give examples of usage.
