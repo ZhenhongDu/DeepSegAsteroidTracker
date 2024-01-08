@@ -6,25 +6,19 @@
 <h1 align="center">DSAT: <strong>D</strong>eep <strong>S</strong>egmentation-assisted <strong>A</strong>steroid <strong>T</strong>racking</h1> </h1>
 <h6 align="right">- developed by Python</h6>
 </p>
-
-
-Note: We have released  the code. We will update the readme file as soon as possible!
-
 ## Contents
-
-
 
 <img src="images/logo.jpg" width="170" align="right">
 
-- [Overview](#overview)
-- [Installation](#installation)
-- [Demo](#demo)
-- [Data](#results)
-- [Acknowledge](#acknowledge)
-- [Citation](#citation)
+- [Overview](##overview)
+- [Installation](##installation)
+- [Demo](##demo)
+- [Data](##results)
+- [Acknowledge](##acknowledge)
+- [Citation](##citation)
 
 
-# Overview
+## Overview
 
 
 
@@ -36,11 +30,7 @@ DSAT aims to find faint moving asteroids using the digital imaging process metho
 
 <br>
 
-
-
-
-
-# Installation
+## Installation
 
 We recommend using Anaconda or Miniconda to manage the package environment. You can clone this repository, then go to the folder and install the dependencies using Anaconda.
 
@@ -52,32 +42,22 @@ conda env create -f environment.yml
 
 - Full dependencies (w pytorch-gpu)--> for simulation, asteroid tracking, network training and inference
 
-```
-conda env create -f environment_full.yml
-```
+>Note: For GPU training, you need to install CUDA and the corresponding version of Pytorch, which you can find on this [page](https://pytorch.org/get-started/previous-versions/).
 
 After installation, you can activate the created environment with 'conda activate DSAT'.
 
+## Demo
+We will update some jupyter notebooks to give examples of usage.
 
-# Demo
-
-
-
-
-
-
-# Data
+## Data
 
 The simulated training dataset and example data has been uploaded to [Zenodo: Data for DeepSegAsteroidTracker](https://zenodo.org/records/10440838).
 
 
-# Acknowledge
+## Acknowledge
 
 
 
-
-
-
-# Citation
-
+## Citation
+If you find this work useful, please consider citing us.
 

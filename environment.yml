@@ -1,0 +1,25 @@
+name: DSAT
+channels:
+  - simpleitk
+  - conda-forge
+  - defaults
+  - anaconda
+  - https://repo.anaconda.com/pkgs/main
+
+dependencies:
+  - python=3.8.18
+  - pip
+
+  - pip:
+    - scipy==1.9.3
+    - scikit-image==0.18.1
+    - numpy==1.24.4
+    - opencv-python==4.8.1.78
+    - spalipy==3.5.2
+    - astropy==5.2.2
+    - photutils==1.8.0
+    - tifffile==2023.7.10
+    - matplotlib==3.2.2
+    - simpleitk==2.2.1
+    - pandas == 2.0.3
+    
