@@ -1,4 +1,4 @@
- [![Project](https://img.shields.io/badge/project-DSAT%20-blue.svg)](https://zhenhongdu.github.io/asteroid_tracking/)  [![Github commit](https://img.shields.io/github/last-commit/zhenhongdu/DeepSegAsteroidTracker)](https://github.com/zhenhongdu/DeepSegAsteroidTracker/)  [![Github stars](https://img.shields.io/github/stars/zhenhongdu/DeepSegAsteroidTracker?color=hex)](https://github.com/zhenhongdu/DeepSegAsteroidTracker/)  ![Program langurage](https://img.shields.io/badge/Python-3.8-orange)  <img src="https://badges.toozhao.com/badges/01HJ6B2Z74GM371X2NKHSJ6MF9/green.svg" /> 
+ [![Project](https://img.shields.io/badge/project-DSAT%20-blue.svg)](https://zhenhongdu.github.io/asteroid_tracking/) [![Github stars](https://img.shields.io/github/stars/zhenhongdu/DeepSegAsteroidTracker?color=hex)](https://github.com/zhenhongdu/DeepSegAsteroidTracker/)  ![Program langurage](https://img.shields.io/badge/Python-3.8-orange)  <img src="https://badges.toozhao.com/badges/01HJ6B2Z74GM371X2NKHSJ6MF9/green.svg" /> 
 
 
 
