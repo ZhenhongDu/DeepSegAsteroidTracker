@@ -12,10 +12,16 @@
 
 <img src="images/logo.jpg" width="170" align="right">
 
+- [Contents](#contents)
 - [Overview](#overview)
 - [Installation](#installation)
-- [Demo](#demo)
-- [Data](#results)
+- [Usage](#usage)
+  - [Simulation](#simulation)
+  - [Generate dataset](#generate-dataset)
+  - [Training](#training)
+  - [Apply network](#apply-network)
+  - [Test tracking](#test-tracking)
+- [Data](#data)
 - [Acknowledge](#acknowledge)
 - [Citation](#citation)
 
@@ -52,7 +58,7 @@ You can use the code in `0_simulation` to generate asteroids at different SNRs, 
 
 ### Generate dataset
 To training a segmentation network, you need to construct a paired training dataset at first.
-* We randomly cropped the raw images with a size of 4096×4096 into 256 ×256 patches to prepare the training dataset. The code in `2_Segmentation_network` can be used for reference.
+* We randomly cropped the raw images with a size of 4096×4096 into 256 ×256 patches to prepare the training dataset. The code in folder `2_Segmentation_network/generate_patches` can be used for reference.
 * The label data can be generate by ground truth (for simulation case) or manual annotation (for real data, [EISeg](https://github.com/PaddlePaddle/PaddleSeg/blob/release/2.6/EISeg/README_EN.md) is  an efficient interactive segementation tool for labeling, detailed descriptions can be found  in our [Supplementary document](https://ars.els-cdn.com/content/image/1-s2.0-S0273117724001911-mmc1.pdf)).
 
 
